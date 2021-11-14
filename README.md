@@ -26,4 +26,7 @@ Until now, we saw some very famous and well performing architectures for Object 
 As a single-stage detector, YOLO performs classification and bounding box regression in one step, making it much faster than most convolutional neural networks. For example, YOLO object detection is more than 1000x faster than R-CNN and 100x faster than Fast R-CNN.
 
 
+**Run the app using command -- streamit run CDHstream.py**
+
+
 **PS: Downloads the weights through the drive link attached -** https://drive.google.com/file/d/1-2Gb32XrBWlOVi6HW-VE4MbeDul0yDmN/view?usp=sharing
