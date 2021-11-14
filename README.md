@@ -21,3 +21,6 @@ The biggest problem with the R-CNN family of networks is their speed — they we
 YOLO algorithm gives a much better performance on all the parameters we discussed along with a high fps for real-time usage. YOLO algorithm is an algorithm based on regression, instead of selecting the interesting part of an Image, it predicts classes and bounding boxes for the whole image in one run of the Algorithm.
 Why YOLO?
 As a single-stage detector, YOLO performs classification and bounding box regression in one step, making it much faster than most convolutional neural networks. For example, YOLO object detection is more than 1000x faster than R-CNN and 100x faster than Fast R-CNN.
+
+
+**PS: Downloads the weights through the drive link attached -** https://drive.google.com/file/d/1-2Gb32XrBWlOVi6HW-VE4MbeDul0yDmN/view?usp=sharing
