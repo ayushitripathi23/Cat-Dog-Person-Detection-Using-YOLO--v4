@@ -17,9 +17,12 @@ VARIOUS APPROACHES
 3.	YOLO
 
 Until now, we saw some very famous and well performing architectures for Object detection. All these algorithms solved some problems mentioned in the Challenges but fail on the most important one — Speed for real-time object detection
-The biggest problem with the R-CNN family of networks is their speed — they were incredibly slow, obtaining only 5 FPS on a GPU.
-YOLO algorithm gives a much better performance on all the parameters we discussed along with a high fps for real-time usage. YOLO algorithm is an algorithm based on regression, instead of selecting the interesting part of an Image, it predicts classes and bounding boxes for the whole image in one run of the Algorithm.
-Why YOLO?
+
+**The biggest problem with the R-CNN family of networks is their speed** — they were incredibly slow, obtaining only 5 FPS on a GPU.
+
+**YOLO algorithm** gives a much better performance on all the parameters we discussed along with a high fps for real-time usage. YOLO algorithm is an algorithm based on regression, instead of selecting the interesting part of an Image, it predicts classes and bounding boxes for the whole image in one run of the Algorithm.
+
+**Why YOLO?**
 As a single-stage detector, YOLO performs classification and bounding box regression in one step, making it much faster than most convolutional neural networks. For example, YOLO object detection is more than 1000x faster than R-CNN and 100x faster than Fast R-CNN.
 
 
